@@ -1,2 +1,0 @@
-# Shanmugapriya-Iyappan
-Profile

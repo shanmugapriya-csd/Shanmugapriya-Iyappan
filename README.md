@@ -125,7 +125,7 @@
 
 <table align="center" width="100%">
 <tr><td align="center"><h2>35</h2><sub>Contributions<br />(last year)</sub></td><td align="center"><h2>31</h2><sub>Commits</sub></td><td align="center"><h2>3</h2><sub>Pull requests</sub></td><td align="center"><h2>0</h2><sub>Issues</sub></td><td align="center"><h2>0</h2><sub>Reviews</sub></td></tr>
-<tr><td align="center"><h2>0</h2><sub>Stars earned</sub></td><td align="center"><h2>1</h2><sub>Current streak<br />(days)</sub></td><td align="center"><h2>3</h2><sub>Longest streak<br />(days)</sub></td><td align="center"><h2>1</h2><sub>Public repos</sub></td><td align="center"><h2>1</h2><sub>Followers</sub></td></tr>
+<tr><td align="center"><h2>0</h2><sub>Stars earned</sub></td><td align="center"><h2>0</h2><sub>Current streak<br />(days)</sub></td><td align="center"><h2>3</h2><sub>Longest streak<br />(days)</sub></td><td align="center"><h2>1</h2><sub>Public repos</sub></td><td align="center"><h2>1</h2><sub>Followers</sub></td></tr>
 </table>
 
 <div align="center">
